@@ -9,3 +9,5 @@ https://www.lexaloffle.com/bbs/?tid=2145
 
 # This fork
 This fork was made to run with this [open-source Monocle engine](https://bitbucket.org/MattThorson/monocle-engine/), just clone it and put its folder in the main folder (this one). Graphics folder and the Content folder from the Monocle Engine should be moved to ./bin/Debug/netcoreapp2.0/ (I'm too lazy to make this work properly).
+
+Of course, credits to Noel Berry and Matt Thorson for both the original source code and the Monocle Engine.
